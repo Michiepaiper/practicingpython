@@ -1,0 +1,4 @@
+info = "input is used to interact with the user. Also remember that to avoid erro when adding a number to a string, use the str statement. for example"
+
+name = input('enter your name: ')
+print('Hello,  ' + str(name))
