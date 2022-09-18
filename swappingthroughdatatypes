@@ -1,0 +1,9 @@
+Info = "datatypes is made up of float, interger and strings"
+Therefoe = "you can swap through them by using command prompts, the print type command lets you know whether its written as a float, string or interger when you check the code for example"
+
+number = "23"
+print(type(number))
+number = int(number)
+print(type(number))
+number = float(number)
+print(type(number))
