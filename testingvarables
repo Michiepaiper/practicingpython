@@ -1,0 +1,9 @@
+variable = "variable is a contaner that carries files"
+note = "no quotations when printing" 
+
+eg = 123.5
+eg2 = "Michelle testing"
+
+print(variable,note)
+print(eg,eg2)
+print(eg2)
